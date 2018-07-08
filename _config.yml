@@ -1,3 +1,4 @@
 title: Rock Dodger
 theme: jekyll-theme-minimal
 show_downloads: true
+logo: ./build/exe.win32-2.7/images/icono.png
